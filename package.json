@@ -1,0 +1,18 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Sample app for docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "docker",
+    "deployment"
+  ],
+  "author": "ritz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
