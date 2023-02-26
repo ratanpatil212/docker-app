@@ -3,7 +3,7 @@ name: docker-app-check
 on:
   push:
     branches:
-      - "main"
+      - "master"
 
 jobs:
   build:
