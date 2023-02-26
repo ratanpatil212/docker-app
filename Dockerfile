@@ -1,5 +1,5 @@
 # Base Image
-FROM node:slim
+FROM node:18.14.2-alpine3.17
 
 #Specifying working directory
 WORKDIR /usr/src/app
